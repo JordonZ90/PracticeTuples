@@ -1,0 +1,15 @@
+C:\Users\User-Ryzen\Desktop\GitC#\PracticeTuples\PracticeTuples\bin\Debug\net5.0\PracticeTuples.exe
+C:\Users\User-Ryzen\Desktop\GitC#\PracticeTuples\PracticeTuples\bin\Debug\net5.0\PracticeTuples.deps.json
+C:\Users\User-Ryzen\Desktop\GitC#\PracticeTuples\PracticeTuples\bin\Debug\net5.0\PracticeTuples.runtimeconfig.json
+C:\Users\User-Ryzen\Desktop\GitC#\PracticeTuples\PracticeTuples\bin\Debug\net5.0\PracticeTuples.runtimeconfig.dev.json
+C:\Users\User-Ryzen\Desktop\GitC#\PracticeTuples\PracticeTuples\bin\Debug\net5.0\PracticeTuples.dll
+C:\Users\User-Ryzen\Desktop\GitC#\PracticeTuples\PracticeTuples\bin\Debug\net5.0\ref\PracticeTuples.dll
+C:\Users\User-Ryzen\Desktop\GitC#\PracticeTuples\PracticeTuples\bin\Debug\net5.0\PracticeTuples.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\PracticeTuples\PracticeTuples\obj\Debug\net5.0\PracticeTuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Ryzen\Desktop\GitC#\PracticeTuples\PracticeTuples\obj\Debug\net5.0\PracticeTuples.AssemblyInfoInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\PracticeTuples\PracticeTuples\obj\Debug\net5.0\PracticeTuples.AssemblyInfo.cs
+C:\Users\User-Ryzen\Desktop\GitC#\PracticeTuples\PracticeTuples\obj\Debug\net5.0\PracticeTuples.csproj.CoreCompileInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\PracticeTuples\PracticeTuples\obj\Debug\net5.0\PracticeTuples.dll
+C:\Users\User-Ryzen\Desktop\GitC#\PracticeTuples\PracticeTuples\obj\Debug\net5.0\ref\PracticeTuples.dll
+C:\Users\User-Ryzen\Desktop\GitC#\PracticeTuples\PracticeTuples\obj\Debug\net5.0\PracticeTuples.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\PracticeTuples\PracticeTuples\obj\Debug\net5.0\PracticeTuples.genruntimeconfig.cache
